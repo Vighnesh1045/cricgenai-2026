@@ -1,0 +1,56 @@
+match_no,stage,group,date,venue,city,team1,team2,toss_winner,toss_decision,winner,result,margin,player_of_the_match,team1_score,team2_score
+1,Group,A,07-02-2026,R. Premadasa Stadium,Colombo,Netherlands,Pakistan,Pakistan,bat,Pakistan,Pakistan won by 3 wickets,3 wkts,Sahibzada Farhan,149/7,150/7
+2,Group,C,07-02-2026,Eden Gardens,Kolkata,West Indies,Scotland,West Indies,bat,West Indies,West Indies won by 35 runs,35 runs,Romario Shepherd,188/5,153/8
+3,Group,A,07-02-2026,Wankhede Stadium,Mumbai,India,USA,India,bat,India,India won by 29 runs,29 runs,Jasprit Bumrah,176/4,147/8
+4,Group,D,08-02-2026,M.A. Chidambaram Stadium,Chennai,Afghanistan,New Zealand,Afghanistan,bat,New Zealand,New Zealand won by 5 wickets,5 wkts,Finn Allen,148/6,149/5
+5,Group,C,08-02-2026,Wankhede Stadium,Mumbai,England,Nepal,England,bat,England,England won by 4 runs,4 runs,Adil Rashid,162/8,158/9
+6,Group,B,08-02-2026,R. Premadasa Stadium,Colombo,Sri Lanka,Ireland,Sri Lanka,bat,Sri Lanka,Sri Lanka won by 20 runs,20 runs,Pathum Nissanka,165/7,145/8
+7,Group,C,09-02-2026,Eden Gardens,Kolkata,Scotland,Italy,Scotland,bat,Scotland,Scotland won by 73 runs,73 runs,George Munsey,173/6,100/9
+8,Group,B,09-02-2026,R. Premadasa Stadium,Colombo,Oman,Zimbabwe,Zimbabwe,field,Zimbabwe,Zimbabwe won by 8 wickets,8 wkts,Blessing Muzarabani,102/8,105/4
+9,Group,D,09-02-2026,Narendra Modi Stadium,Ahmedabad,South Africa,Canada,South Africa,field,South Africa,South Africa won by 45 runs,45 runs,Dewald Brevis,187/5,142/9
+10,Group,A,10-02-2026,Arun Jaitley Stadium,Delhi,Namibia,Netherlands,,,Netherlands,Netherlands won by 6 wickets,6 wkts,Max O'Dowd,143/7,137/9
+11,Group,D,10-02-2026,M.A. Chidambaram Stadium,Chennai,New Zealand,UAE,New Zealand,,New Zealand,New Zealand won by 8 wickets,8 wkts,Tim Seifert,196/4,134/8
+12,Group,A,10-02-2026,Sinhalese Sports Club,Colombo,Pakistan,USA,Pakistan,bat,Pakistan,Pakistan won by 7 wickets,7 wkts,Sahibzada Farhan,198/5,191/8
+13,Group,D,11-02-2026,Narendra Modi Stadium,Ahmedabad,South Africa,Afghanistan,South Africa,field,South Africa,South Africa won by 38 runs,38 runs,Corbin Bosch,182/6,144/8
+14,Group,B,11-02-2026,R. Premadasa Stadium,Colombo,Australia,Ireland,Australia,,Australia,Australia won by 6 wickets,6 wkts,Travis Head,168/5,162/7
+15,Group,C,11-02-2026,Wankhede Stadium,Mumbai,England,West Indies,England,,England,England won by 22 runs,22 runs,Jofra Archer,195/6,173/8
+16,Group,B,12-02-2026,Pallekele Cricket Stadium,Kandy,Sri Lanka,Oman,Sri Lanka,field,Sri Lanka,Sri Lanka won by 5 wickets,5 wkts,Pathum Nissanka,178/5,173/6
+17,Group,C,12-02-2026,Wankhede Stadium,Mumbai,Nepal,Italy,Nepal,,Nepal,Nepal won by 14 runs,14 runs,Dipendra Singh Airee,141/7,127/9
+18,Group,A,12-02-2026,Arun Jaitley Stadium,Delhi,India,Namibia,India,bat,India,India won by 93 runs,93 runs,Ishan Kishan,219/3,126/9
+19,Group,B,13-02-2026,R. Premadasa Stadium,Colombo,Australia,Zimbabwe,Zimbabwe,field,No Result,No Result (Abandoned),Abandoned,No Result,No Result,No Result
+20,Group,D,13-02-2026,Arun Jaitley Stadium,Delhi,Canada,UAE,Canada,field,Canada,Canada won by 4 wickets,4 wkts,Yuvraj Samra,156/8,152/8
+21,Group,A,13-02-2026,M.A. Chidambaram Stadium,Chennai,Netherlands,USA,Netherlands,,Netherlands,Netherlands won by 31 runs,31 runs,Bas de Leede,167/5,136/9
+22,Group,B,14-02-2026,R. Premadasa Stadium,Colombo,Ireland,Oman,Ireland,field,Ireland,Ireland won by 5 wickets,5 wkts,Paul Stirling,148/7,143/7
+23,Group,C,14-02-2026,Eden Gardens,Kolkata,England,Scotland,England,,England,England won by 41 runs,41 runs,Will Jacks,188/4,147/8
+24,Group,D,14-02-2026,Narendra Modi Stadium,Ahmedabad,New Zealand,South Africa,New Zealand,,New Zealand,New Zealand won by 7 wickets,7 wkts,Rachin Ravindra,194/5,187/7
+25,Group,C,15-02-2026,Wankhede Stadium,Mumbai,Nepal,West Indies,West Indies,,West Indies,West Indies won by 18 runs,18 runs,Andre Russell,152/7,134/8
+26,Group,A,15-02-2026,M.A. Chidambaram Stadium,Chennai,Namibia,USA,USA,,USA,USA won by 6 runs,6 runs,Shadley van Schalkwyk,132/8,126/8
+27,Group,A,15-02-2026,R. Premadasa Stadium,Colombo,India,Pakistan,India,bat,India,India won by 5 wickets,5 wkts,Varun Chakravarthy,182/4,177/6
+28,Group,D,16-02-2026,Arun Jaitley Stadium,Delhi,Afghanistan,UAE,Afghanistan,,Afghanistan,Afghanistan won by 9 wickets,9 wkts,Rashid Khan,168/2,159/1
+29,Group,C,16-02-2026,Eden Gardens,Kolkata,England,Italy,England,,England,England won by 8 wickets,8 wkts,Harry Brook,198/2,140/2
+30,Group,B,16-02-2026,Pallekele Cricket Stadium,Kandy,Australia,Sri Lanka,Sri Lanka,field,Sri Lanka,Sri Lanka won by 3 wickets,3 wkts,Wanindu Hasaranga,145/7,142/9
+31,Group,D,17-02-2026,M.A. Chidambaram Stadium,Chennai,Canada,New Zealand,Canada,field,New Zealand,New Zealand won by 6 wickets,6 wkts,Lockie Ferguson,168/6,162/6
+32,Group,B,17-02-2026,Pallekele Cricket Stadium,Kandy,Ireland,Zimbabwe,Zimbabwe,field,No Result,No Result (Abandoned),Abandoned,No Result,No Result,No Result
+33,Group,C,17-02-2026,Wankhede Stadium,Mumbai,Nepal,Scotland,Scotland,,Scotland,Scotland won by 19 runs,19 runs,Brad Currie,145/7,126/9
+34,Group,D,18-02-2026,Arun Jaitley Stadium,Delhi,South Africa,UAE,South Africa,field,South Africa,South Africa won by 55 runs,55 runs,Lungi Ngidi,192/4,137/8
+35,Group,A,18-02-2026,R. Premadasa Stadium,Colombo,Namibia,Pakistan,Pakistan,bat,Pakistan,Pakistan won by 7 wickets,7 wkts,Sahibzada Farhan,178/5,171/5
+36,Group,A,18-02-2026,Narendra Modi Stadium,Ahmedabad,India,Netherlands,India,bat,India,India won by 8 wickets,8 wkts,Abhishek Sharma,215/5,207/4
+37,Group,C,19-02-2026,Eden Gardens,Kolkata,Italy,West Indies,West Indies,,West Indies,West Indies won by 44 runs,44 runs,Shimron Hetmyer,152/8,108/8
+38,Group,B,19-02-2026,R. Premadasa Stadium,Colombo,Sri Lanka,Zimbabwe,Sri Lanka,bat,Sri Lanka,Sri Lanka won by 5 wickets,5 wkts,Maheesh Theekshana,182/5,177/6
+39,Group,D,19-02-2026,M.A. Chidambaram Stadium,Chennai,Afghanistan,Canada,Afghanistan,,Canada,Canada won by 3 wickets,3 wkts,Junaid Siddique,132/9,129/7
+40,Group,B,20-02-2026,Pallekele Cricket Stadium,Kandy,Australia,Oman,Australia,field,Australia,Australia won by 9 wickets,9 wkts,Mitchell Marsh,192/4,103/9
+41,Super Eight,1,21-02-2026,R. Premadasa Stadium,Colombo,South Africa,Zimbabwe,South Africa,,South Africa,South Africa won by 52 runs,52 runs,Aiden Markram,195/5,143/7
+42,Super Eight,1,22-02-2026,Pallekele Cricket Stadium,Kandy,India,West Indies,India,field,India,India won by 8 wickets,8 wkts,Sanju Samson,198/4,146/6
+43,Super Eight,2,22-02-2026,Narendra Modi Stadium,Ahmedabad,England,Sri Lanka,England,,England,England won by 6 wickets,6 wkts,Jacob Bethell,186/5,180/6
+44,Super Eight,2,23-02-2026,Wankhede Stadium,Mumbai,New Zealand,Pakistan,New Zealand,,No Result,No Result (Abandoned),Abandoned,No Result,No Result,No Result
+45,Super Eight,1,24-02-2026,Pallekele Cricket Stadium,Kandy,West Indies,Zimbabwe,West Indies,,West Indies,West Indies won by 34 runs,34 runs,Romario Shepherd,172/6,138/8
+46,Super Eight,1,25-02-2026,R. Premadasa Stadium,Colombo,India,South Africa,India,,India,India won by 7 wickets,7 wkts,Sanju Samson,196/4,168/5
+47,Super Eight,2,26-02-2026,Narendra Modi Stadium,Ahmedabad,Pakistan,Sri Lanka,Pakistan,bat,Pakistan,Pakistan won by 5 wickets,5 wkts,Shadab Khan,185/6,180/7
+48,Super Eight,2,26-02-2026,M.A. Chidambaram Stadium,Chennai,England,New Zealand,England,,England,England won by 3 wickets,3 wkts,Adil Rashid,178/5,175/7
+49,Super Eight,1,27-02-2026,R. Premadasa Stadium,Colombo,South Africa,West Indies,South Africa,,South Africa,South Africa won by 29 runs,29 runs,Marco Jansen,188/6,159/8
+50,Super Eight,2,28-02-2026,Pallekele Cricket Stadium,Kandy,Sri Lanka,New Zealand,New Zealand,,New Zealand,New Zealand won by 6 wickets,6 wkts,Finn Allen,152/8,146/7
+51,Super Eight,1,01-03-2026,Arun Jaitley Stadium,Delhi,Zimbabwe,South Africa,South Africa,field,South Africa,South Africa won by 19 runs,19 runs,Corbin Bosch,145/8,126/9
+52,Super Eight,1,01-03-2026,Eden Gardens,Kolkata,India,West Indies,India,field,India,India won by 6 wickets,6 wkts,Sanju Samson,212/4,165/4
+53,Semi-Final,SF1,04-03-2026,Eden Gardens,Kolkata,South Africa,New Zealand,South Africa,,New Zealand,New Zealand won by 9 wickets,9 wkts (43b rem),Finn Allen,185/8,143/9 (43b rem)
+54,Semi-Final,SF2,05-03-2026,Wankhede Stadium,Mumbai,India,England,India,,India,India won by 7 runs,7 runs,Sanju Samson,256/5,249/8
+55,Final,Final,08-03-2026,Narendra Modi Stadium,Ahmedabad,India,New Zealand,India,bat,India,India won by 96 runs,96 runs,Sanju Samson,255/5,159/10

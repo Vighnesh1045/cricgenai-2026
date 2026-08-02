@@ -1,0 +1,33 @@
+Category 1: Match-Specific Deep Dives (Using key_scorecards)
+These queries test the system's ability to pull exact ball-by-ball or match-specific metrics rather than overall tournament totals.
+
+English: "Who scored the most runs for India in the Final and what was his strike rate?"
+Marathi: "फायनलमध्ये भारतासाठी सर्वाधिक धावा कोणी केल्या आणि किती?"
+Hindi: "फाइनल मैच में भारत के लिए सबसे ज्यादा रन किसने बनाए?"
+
+Category 2: Complex Cross-Table Joins (Using matches + venues + awards)
+These queries demonstrate the AI's ability to perform logical SQL joins across multiple tables in a fraction of a second, aided by the B-Tree indexing
+
+English: "Which stadium hosted Semi-Final 1 and who won Player of the Match there?"
+Marathi: "सेमीफायनल १ कोणत्या स्टेडियमवर खेळला गेला आणि तिथे 'प्लेअर ऑफ द मॅच' कोण ठरला?"
+Hindi: "सेमीफाइनल 1 किस स्टेडियम में खेला गया और वहां 'प्लेयर ऑफ द मैच' किसने जीता?"
+
+Category 3: Tournament Aggregates & Milestones (Using batting_stats & awards)
+These questions test how the AI filters tournament-wide leaderboards.
+English: "Who scored the fastest century in the 2026 World Cup and how many balls did it take?"
+Marathi: "२०२६ च्या विश्वचषकात सर्वात वेगवान शतक कोणी झळकावले?"
+Hindi: "2026 विश्व कप में सबसे तेज़ शतक किसने लगाया?"
+
+Category 4: Diagnostic Bowling Analysis (Using bowling_stats)
+This evaluates the AI's mathematical filtering and multi-condition SQL capabilities (WHERE clauses).
+English: "Which Indian bowlers took more than 10 wickets and what were their best figures?"
+Marathi: "कोणत्या भारतीय गोलंदाजांनी स्पर्धेत १० पेक्षा जास्त बळी घेतले आणि त्यांची सर्वोत्तम कामगिरी काय होती?"
+Hindi: "किन भारतीय गेंदबाजों ने 10 से अधिक विकेट लिए और उनका सर्वश्रेष्ठ प्रदर्शन क्या था?"
+
+Category 5: Conversational Follow-Ups (Session State Memory)
+CricGenAI uses st.session_state to remember chat history, meaning you can ask follow-up questions without re-stating the context
+
+Initial Question (English): "Who was the Player of the Tournament?" (Answer: Sanju Samson)
+Follow-Up Question (English): "How many total sixes did he hit in the tournament?"
+Follow-Up Question (Marathi): "त्याने संपूर्ण स्पर्धेत एकूण किती षटकार मारले?"
+Follow-Up Question (Hindi): "उसने पूरे टूर्नामेंट में कितने छक्के लगाए?"

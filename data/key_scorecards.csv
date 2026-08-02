@@ -1,0 +1,43 @@
+match,innings,team,player,runs,balls,fours,sixes,dismissal,impact
+Final,1st,India,Abhishek Sharma,52,18,6,3,c Ravindra b Ravindra,Explosive Powerplay 50; set the tone for a record total with a 288.89 SR.
+Final,1st,India,Sanju Samson,89,42,8,7,c Seifert b Neesham,Match-defining knock; anchored the innings while maintaining high intensity.
+Final,1st,India,Suryakumar Yadav,35,25,3,1,c Mitchell b Neesham,Crucial middle-order partnership to sustain scoring momentum.
+Final,1st,India,Ishan Kishan,54,28,4,4,c Santner b Neesham,Aggressive 50 to capitalize on the start; kept pressure on NZ bowlers.
+Final,1st,India,Hardik Pandya,15,8,1,1,not out,Quickfire finish at the death; strike rate of 187.50.
+Final,1st,India,Shivam Dube,26,14,2,1,not out,Valuable contribution at the end to push the total past 250.
+Final,1st,India,Tilak Varma,8,4,0,1,not out,Brief but effective cameo in the final over.
+Final,2nd,New Zealand,Finn Allen,8,6,1,0,c Tilak b Axar,Early wicket lost while trying to attack in a massive chase.
+Final,2nd,New Zealand,Rachin Ravindra,2,5,0,0,c Kishan b Bumrah,Struggled against high-quality pace; early departure.
+Final,2nd,New Zealand,Glenn Phillips,5,7,0,0,b Axar,Failed to settle under intense scoreboard pressure.
+Final,2nd,New Zealand,Tim Seifert,52,23,5,4,c Dube b Varun,Lone fighter for NZ; explosive counter-attack with a 226.09 SR.
+Final,2nd,New Zealand,Mark Chapman,15,12,1,1,c & b Pandya,Brief resistance in the middle order but couldn't keep up.
+Final,2nd,New Zealand,Daryl Mitchell,28,22,2,1,c Abhishek b Axar,Steady knock but unable to accelerate against high-quality spin.
+Final,2nd,New Zealand,Mitchell Santner,22,17,1,2,c Samson b Bumrah,Handy runs down the order in a losing cause.
+Final,2nd,New Zealand,James Neesham,12,10,1,0,b Bumrah,Unable to recreate his typical finishing magic under pressure.
+Final,2nd,New Zealand,Lockie Ferguson,4,6,0,0,c Tilak b Bumrah,Lower-order resistance to delay the inevitable.
+Final,2nd,New Zealand,Matt Henry,3,3,0,0,b Arshdeep,Dismissed quickly by Arshdeep.
+Final,2nd,New Zealand,Jacob Duffy,0,3,0,0,c Tilak b Arshdeep,Tail-ender dismissal in the final stages.
+SF2,1st,India,Abhishek Sharma,15,10,2,0,c Buttler b Archer,Aggressive intent shown early but dismissed before a big score.
+SF2,1st,India,Sanju Samson,89,42,8,7,c Brook b Curran,Back-to-back dominant performance; masterclass in T20 batting.
+SF2,1st,India,Suryakumar Yadav,42,30,4,2,c Bethell b Rashid,Solid middle-order contribution to build a competitive platform.
+SF2,1st,India,Ishan Kishan,48,25,4,3,c Salt b Atkinson,Aggressive knock that put England on the backfoot early.
+SF2,1st,India,Hardik Pandya,28,14,2,2,c Dawson b Wood,High-impact finish; significantly boosted the scoring rate in final overs.
+SF2,1st,India,Shivam Dube,26,10,1,2,not out,Explosive finishing; strike rate of 260.00.
+SF2,1st,India,Tilak Varma,8,5,1,0,not out,Quick runs at the death to optimize the total.
+SF2,2nd,England,Phil Salt,8,5,1,0,c sub b Pandya,Early aggression cut short by Pandya.
+SF2,2nd,England,Jos Buttler,25,17,5,0,c Varun b Siraj,Started well but failed to convert into a match-winning knock.
+SF2,2nd,England,Harry Brook,12,8,2,0,c Axar b Bumrah,Dismissed while trying to escalate the required run rate.
+SF2,2nd,England,Jacob Bethell,105,48,8,7,run out,Spectacular fighting century; the only major resistance for England.
+SF2,2nd,England,Will Jacks,38,18,3,3,c Bumrah b Axar,Aggressive partnership with Bethell to keep England's hopes alive.
+SF2,2nd,England,Liam Dawson,18,12,1,1,c Kishan b Arshdeep,Attempted a late fightback but perished to Arshdeep.
+SF2,2nd,England,Sam Curran,15,10,1,1,c Dube b Bumrah,Late runs but the target was already out of reach.
+SF2,2nd,England,Adil Rashid,8,5,1,0,not out,Unbeaten at the end but innings ran out of steam.
+SF1,1st,South Africa,Quinton de Kock,22,18,3,0,c Allen b Ravindra,Steady start but unable to convert into a big score.
+SF1,1st,South Africa,Aiden Markram,8,10,1,0,c Seifert b Ravindra,Struggled to find timing against the New Zealand spin attack.
+SF1,1st,South Africa,Dewald Brevis,42,18,4,3,c Phillips b Ferguson,High-impact cameo; kept SA in the hunt with aggressive intent.
+SF1,1st,South Africa,Heinrich Klaasen,28,20,2,2,c Mitchell b Santner,Brief middle-order stability during a difficult phase.
+SF1,1st,South Africa,David Miller,18,15,1,1,b Ravindra,Unexpectedly struggled to finish the game in the death overs.
+SF1,1st,South Africa,Tristan Stubbs,12,10,1,0,c Allen b Neesham,Failed to capitalize on a decent start.
+SF1,1st,South Africa,Marco Jansen,55,28,4,4,c Santner b Ravindra,Valuable counter-attacking 50 from the lower order.
+SF1,2nd,New Zealand,Finn Allen,100,33,10,8,not out,Historic 33-ball century; arguably the greatest knock of the tournament.
+SF1,2nd,New Zealand,Tim Seifert,65,35,7,3,not out,Perfect supporting role in a record-breaking chase.
