@@ -52,6 +52,12 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 db_path = os.path.join(BASE_DIR, "t20_wc_2026.db")
 db_url = f"sqlite:///{db_path.replace(os.sep, '/')}"
 
+# Tables the agent is allowed to see/query, matching what database_setup.py loads.
+ALLOWED_TABLES = [
+    "awards", "batting_stats", "bowling_stats", "key_scorecards",
+    "matches", "points_table", "squads", "tournament_summary", "venues",
+]
+
 # Sidebar 
 with st.sidebar:
     st.markdown('### 🏆 CRICGENAI PANEL')
@@ -92,7 +98,7 @@ def init_db_and_llm(key, _url):
     # even if a prompt-injected question asks it to.
     ro_url = _url.replace("sqlite:///", "sqlite:///file:", 1) + "?mode=ro&uri=true"
     engine = create_engine(ro_url)
-    db = SQLDatabase(engine, sample_rows_in_table_info=1)
+    db = SQLDatabase(engine, include_tables=ALLOWED_TABLES, sample_rows_in_table_info=1)
     llm = ChatNVIDIA(model="meta/llama-3.3-70b-instruct", api_key=key, temperature=0.1)
     return db, llm
 
