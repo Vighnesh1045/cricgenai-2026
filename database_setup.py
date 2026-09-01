@@ -26,39 +26,29 @@ def create_db():
     
     for file in csv_files:
         path = os.path.join(data_dir, file)
-        if not os.path.exists(path):
-            print(f"❌ Missing file: {path}")
-            continue
-
-        try:
+        if os.path.exists(path):
             df = pd.read_csv(path)
-        except (pd.errors.ParserError, pd.errors.EmptyDataError, OSError) as e:
-            print(f"❌ Failed to read {file}: {e}")
-            continue
-
-        table_name = file.replace('.csv', '')
-
-        # Standardize column names (lower case and underscores)
-        df.columns = [c.strip().replace(' ', '_').lower() for c in df.columns]
-
-        # Load to SQL
-        try:
+            table_name = file.replace('.csv', '')
+            
+            # Standardize column names (lower case and underscores)
+            df.columns = [c.strip().replace(' ', '_').lower() for c in df.columns]
+            
+            # Load to SQL
             df.to_sql(table_name, conn, if_exists='replace', index=False)
             print(f"✅ Loaded: {table_name}")
-        except Exception as e:
-            print(f"❌ Failed to load {table_name}: {e}")
-            continue
-
-        # SAFE INDEXING
-        try:
-            if table_name == 'key_scorecards':
-                cursor.execute("CREATE INDEX IF NOT EXISTS idx_player_match ON key_scorecards (player, match);")
-                print("Created Performance Index on key_scorecards")
-            if table_name == 'awards':
-                cursor.execute("CREATE INDEX IF NOT EXISTS idx_match_award ON awards (match);")
-                print("Created Index on awards")
-        except Exception:
-            print(f"Index skipped for {table_name}: (Column might have a different name)")
+            
+            # SAFE INDEXING
+            try:
+                if table_name == 'key_scorecards':
+                    cursor.execute("CREATE INDEX IF NOT EXISTS idx_player_match ON key_scorecards (player, match);")
+                    print("Created Performance Index on key_scorecards")
+                if table_name == 'awards':
+                    cursor.execute("CREATE INDEX IF NOT EXISTS idx_match_award ON awards (match);")
+                    print("Created Index on awards")
+            except Exception as e:
+                print(f"Index skipped for {table_name}: (Column might have a different name)")
+        else:
+            print(f"❌ Missing file: {path}")
     
     conn.commit()
     conn.close()
